@@ -11,14 +11,14 @@ p {
     height: 650px;
     width: 395px;
     padding: 10px;
-    background-color: #705594;
+    background-color: #9d88cb;
     display: flex;
     flex-direction: column;
 }
 
 .blocks {
     margin: 3px;
-    background-color: #b680c7;
+    background-color: #cea9dc;
     text-align: center;
     padding: 30px;
     border-radius: 10px;
